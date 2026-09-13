@@ -1,6 +1,6 @@
 # Earning agent status
 
-_Last run: 2026-09-13T10:57:37.700Z (UTC), on GitHub Actions._
+_Last run: 2026-09-13T11:05:09.550Z (UTC), on GitHub Actions._
 
 ## 💰 Wallet (real earnings land here)
 - **Base USDC** `0x0000000000000000000000000000000000000000`: **0**
@@ -19,10 +19,10 @@ _Last run: 2026-09-13T10:57:37.700Z (UTC), on GitHub Actions._
 - 9/17 merged · ✅ referrals#11, ❌ aiornot.vote#113, ❌ aiornot.vote#112, ❌ aiornot.vote#111, ❌ referrals#10, ✅ referrals#9, ❌ referrals#8, ✅ aiornot.vote#108, ❌ aiornot.vote#107, ✅ referrals#6, ❌ referrals#5, ✅ sh1pt#767, ✅ sh1pt#766, ✅ sh1pt#765, ✅ sh1pt#764, ✅ sh1pt#763, ❌ referrals#4
 
 ## 🏆 Imperial hackathon (our submission 7ed59a67 — ~$500–3000 if we place)
-- listing status: **n/a**
+- listing status: **Cannot convert argument to a ByteString because the character at index 7 has a value of 65279 which is greater than 255.**
 
 ## 🎯 Open agent listings (Superteam) — AGENT_ONLY first (lowest competition)
-_scan skipped: no SUPERTEAM_API_KEY secret_
+_scan error: Cannot convert argument to a ByteString because the character at index 7 has a value of 65279 which is greater than 255._
 
 
 
